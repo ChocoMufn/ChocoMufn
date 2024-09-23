@@ -4,7 +4,7 @@ I'm a Mechatronics Engineering student at the University of Waterloo with deep i
 Let's Chat!
 
 ### 🚀 Experience
-- Software Developer Intern @ **Geotab**
+- Software Developer Intern @ **Geotab** [Two time internal hackathon winner]
 - Software Developer Co-op + Part-time @ **Sipstack**
 - Software Developer Co-op @ **Mavennet**
 - Full Stack Developer Co-op + Part-time @ **Quicktab**
