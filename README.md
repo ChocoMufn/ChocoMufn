@@ -17,8 +17,8 @@ Let's Chat!
 - **🛠️ Developer Tools:** Git, VS Code, Rider, Jira, Confluence, Postman, PowerBI, Object Oriented Programming
 
 ### ☕️ Connect with me:
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/therealvrajpatel/)
-- 📧[Email](vsp479@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/therealvrajpatel/)
+- [Email](vsp479@gmail.com)
 
 ### :brain: People I Follow:
 - [Naval](https://twitter.com/naval)
