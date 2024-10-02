@@ -1,4 +1,5 @@
-## 	:wave: Hi there, I'm Vraj!
+## Hi there, I'm Vraj!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 I'm a Mechatronics Engineering student at the University of Waterloo with deep interest in Mixed Reality, Machine Learning, and Brain-Computer Interfacing. 
 
 Let's Chat!
@@ -23,3 +24,5 @@ Let's Chat!
 - [Naval](https://twitter.com/naval)
 - [Lex Fridman](https://twitter.com/lexfridman)
 - [Sam Altman](https://twitter.com/sama)
+
+
