@@ -11,11 +11,6 @@ Let's Chat!
 - Full Stack Developer Co-op + Part-time @ **Quicktab** [May 2021 - May 2022]
 - Participated at Hack the North 2019, 2020++, and 2021 and collaborated to create [Immirelif](https://devpost.com/software/immireleif), [Interque](https://devpost.com/software/project-interque), [StudyBuddy](https://devpost.com/software/studybuddy-avb2u4) (Mentored during 2023, 2024)
 
-### ⚡ Technical Skills
-- **✅ Languages:** Python, JavaScript, TypeScript, C++, C, C#, Java, HTML, CSS, Bash, SQL, MATLAB
-- **🔥 Technologies/Frameworks:** Unity, UE5, ARKit, React, .NET, Node.js, Nest.js, Express, PostgreSQL, Pandas, Numpy, scikit-learn, jQuery, AJAX, Celery, Flask
-- **🛠️ Developer Tools:** Git, VS Code, Rider, Jira, Confluence, Postman, PowerBI, Object Oriented Programming
-
 ### ☕️ Connect with me:
 - [Linkedin](https://www.linkedin.com/in/therealvrajpatel/)
 - [Email](vsp479@gmail.com)
