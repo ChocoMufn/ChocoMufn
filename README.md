@@ -19,11 +19,8 @@ Let's Chat!
 ### ☕️ Connect with me:
 - [Linkedin](https://www.linkedin.com/in/therealvrajpatel/)
 - [Email](vsp479@gmail.com)
-- [Twitter](https://x.com/chocomufn)
+- [Twitter/X](https://x.com/chocomufn)
 
-### :brain: People I Follow:
-- [Naval](https://twitter.com/naval)
-- [Lex Fridman](https://twitter.com/lexfridman)
-- [Sam Altman](https://twitter.com/sama)
-
-
+### 🥅 Goals for 2025
+- Build something people want
+- Start a company
