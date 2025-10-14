@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Vraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm a caffine addict.
+I'm a coffee snob. Building [Fundsy AI](https://www.tryfundsy.xyz)
 
 Let's Chat!
 
 ### 🚀 Experience
-- Software Developer Intern [Two time internal hackathon winner] @ **Geotab** [Jan 2024 - Aug 2024]
+- Software Developer Intern @ **Geotab** [Jan 2024 - Aug 2024]
 - Software Developer Co-op + Part-time @ **Sipstack** [Sept 2022 - Sept 2023]
 - Software Developer Co-op @ **Mavennet** [Jan 2022 - April 2022]
 - Full Stack Developer Co-op + Part-time @ **Quicktab** [May 2021 - May 2022]
